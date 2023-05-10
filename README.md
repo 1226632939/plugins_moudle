@@ -1,1 +1,1 @@
-# intellig_plugins_moudle
+# plugins_moudle
